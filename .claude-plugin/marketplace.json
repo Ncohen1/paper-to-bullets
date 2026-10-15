@@ -1,0 +1,14 @@
+{
+  "name": "ncohen1-skills",
+  "owner": {
+    "name": "Ncohen1"
+  },
+  "plugins": [
+    {
+      "name": "paper-to-bullets",
+      "source": "./",
+      "description": "Turn a paper into five bullets: title, question, method, result, limitation.",
+      "version": "1.0.0"
+    }
+  ]
+}

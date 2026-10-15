@@ -1,0 +1,10 @@
+{
+  "name": "paper-to-bullets",
+  "version": "1.0.0",
+  "description": "Turn a paper into five bullets: title, question, method, result, limitation.",
+  "author": {
+    "name": "Ncohen1"
+  },
+  "license": "MIT",
+  "keywords": ["papers", "research", "summary", "triage"]
+}
